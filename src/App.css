@@ -1,0 +1,34 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+input {
+  font-family: Arial;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 150px;
+  margin-right: 15px;
+}
+
+input.placeholder {
+  font-family: "Arial Rounded MT Bold";
+}
+
+button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+span {
+  vertical-align: middle;
+}
+
+
